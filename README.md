@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=220&section=header&text=El%20Zidane%20Ardyansyah&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Mobile%20Developer%20%7C%20UI/UX%20Designer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Flutter+%26+Dart+Mobile+Developer;UI%2FUX+Designer;Siswa+RPL+SMK+Telkom+Malang" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Web+Developer;Flutter+%26+Dart+Mobile+Developer;UI%2FUX+Designer;Siswa+RPL+SMK+Telkom+Malang" alt="Typing SVG" />
 
 <br/>
 
@@ -11,9 +11,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-_elzdne-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_elzdne)
 [![Portfolio](https://img.shields.io/badge/Portfolio-elzidane.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://elzidane.vercel.app)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ElZidane123&color=3B82F6&style=flat-square&label=Profile+Views)
+![Open to Opportunities](https://img.shields.io/badge/Open%20to-Internship%20%26%20Freelance-8B5CF6?style=flat-square)
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&section=header" width="100%"/>
 
 ### 👨‍💻 Tentang Saya
 
@@ -27,7 +32,7 @@ Fokus      : Web Development • Mobile Development • UI/UX Design
 Status     : 🌱 Terus belajar & terbuka untuk kolaborasi proyek
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&section=header" width="100%"/>
 
 ### 🧰 Tech Stack
 
@@ -51,7 +56,7 @@ Status     : 🌱 Terus belajar & terbuka untuk kolaborasi proyek
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&section=header" width="100%"/>
 
 ### 🚀 Proyek & Pengalaman
 
@@ -106,7 +111,7 @@ Platform aplikasi wisata dan pemesanan porter guide.
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&section=header" width="100%"/>
 
 ### 🏆 Sertifikasi & Prestasi
 
@@ -116,27 +121,42 @@ Platform aplikasi wisata dan pemesanan porter guide.
 - 📜 Sertifikasi **Pengembangan Web Front-End & Membuat Website dengan React** — Dicoding
 - 🤖 Pelatihan **AI Engineer & Intermediate Assistant Web Developer** — Digital Talent Scholarship 2026
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&section=header" width="100%"/>
+
+### 🎖️ GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ElZidane123&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&section=header" width="100%"/>
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ElZidane123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElZidane123&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ElZidane123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElZidane123&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=8B5CF6" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElZidane123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElZidane123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ElZidane123&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ElZidane123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=ffffff" alt="Contribution Graph" width="95%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:8B5CF6&height=3&section=header" width="100%"/>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ElZidane123/ElZidane123/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation"/>
+</div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=150&section=footer" width="100%"/>
 
 <div align="center">
 
-### 💬 "Turning ideas into scalable web and mobile experiences."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=120&section=footer" width="100%"/>
+### 💬 *"Turning ideas into scalable web and mobile experiences."*
 
 </div>
