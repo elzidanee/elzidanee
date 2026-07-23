@@ -1,193 +1,142 @@
 <div align="center">
 
-# 👋 Hi, I'm El Zidane Ardyansyah
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=220&section=header&text=El%20Zidane%20Ardyansyah&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Mobile%20Developer%20%7C%20UI/UX%20Designer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### Full Stack Developer • Flutter Developer • UI/UX Designer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Flutter+%26+Dart+Mobile+Developer;UI%2FUX+Designer;Siswa+RPL+SMK+Telkom+Malang" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Web+Developer;Next.js+Enthusiast;Building+Real+World+Applications" />
+<br/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ElZidane123&label=Profile+Views&color=2563EB&style=for-the-badge"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-elzidane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elzidane)
+[![Gmail](https://img.shields.io/badge/Gmail-elzidaneardyansyah265-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elzidaneardyansyah265@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-_elzdne-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_elzdne)
+[![Portfolio](https://img.shields.io/badge/Portfolio-elzidane.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://elzidane.vercel.app)
 
 </div>
 
 ---
 
-# 💫 About Me
+### 👨‍💻 Tentang Saya
 
-💻 Full Stack Developer from Indonesia
+Saya adalah **Siswa Rekayasa Perangkat Lunak SMK Telkom Malang** yang berfokus pada pengembangan produk digital di bidang **Web, Mobile, dan UI/UX**. Saya memiliki keahlian teknis dalam **Next.js**, **Flutter**, serta pengelolaan **backend cloud menggunakan Supabase**. Berpengalaman merancang sistem dengan keamanan autentikasi, manajemen data multi-akses, dan integrasi API yang optimal untuk menghadirkan solusi teknologi siap pakai.
 
-🎓 Software Engineering Student at **SMK Telkom Malang**
-
-📱 Passionate about Flutter Development
-
-🌐 Building scalable web applications with Next.js
-
-☁️ Experienced with Supabase & REST API
-
-🎨 Love crafting modern UI/UX experiences
-
-🚀 Always learning new technologies.
+```yaml
+Nama       : El Zidane Ardyansyah
+Lokasi     : Kota Malang, Jawa Timur, Indonesia
+Pendidikan : SMK Telkom Malang - Rekayasa Perangkat Lunak (2024 - 2027)
+Fokus      : Web Development • Mobile Development • UI/UX Design
+Status     : 🌱 Terus belajar & terbuka untuk kolaborasi proyek
+```
 
 ---
 
-# 🚀 Featured Projects
+### 🧰 Tech Stack
 
-| Project | Stack |
-|----------|-------|
-| 🚀 EazyChise | Next.js • Tailwind • Supabase |
-| 📱 Monsef | Flutter • OCR API • Speech To Text |
-| 💧 HaloAir | Flutter • REST API |
-| ✈️ PortaTrip | Figma • UI/UX • Prototype |
+**Mobile**
 
----
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 
-# ⚡ Tech Stack
+**Frontend**
 
-### Mobile
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
-</p>
+**Backend**
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
-</p>
+**Design**
 
-### Backend
+<img src="https://skillicons.dev/icons?i=figma" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql"/>
-</p>
+**Tools**
 
-### Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
 
 ---
 
-# 📊 GitHub Analytics
+### 🚀 Proyek & Pengalaman
 
-<p align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ElZidane123&show_icons=true&theme=tokyonight&hide_border=true"/>
+**🏪 EazyChise**
+*Full Stack Web Developer — Web Creation Competition | Juni 2026 - Present*
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElZidane123&layout=compact&theme=tokyonight&hide_border=true"/>
+Platform marketplace waralaba responsif untuk mempercepat ekspansi bisnis mitra.
+- Dibangun dengan **Next.js, Tailwind CSS, Vercel**
+- Fitur autentikasi, pencarian multi-kategori, kalkulator simulasi keuntungan
+- Formulir digital berbasis **Supabase**
 
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+**💰 Monsef**
+*Mobile Application Developer — Project | April 2026 - Present*
 
-# 🔥 GitHub Streak
+Aplikasi pencatat keuangan berbasis mobile dari tahap awal hingga produksi.
+- Dibangun dengan **Flutter & Dart**
+- Integrasi **OCR API (Scan Struk)** dan **Speech-to-Text**
+- Otomatisasi input transaksi via **Supabase**
 
-<p align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://streak-stats.demolab.com?user=ElZidane123&theme=tokyonight&hide_border=true"/>
+**💧 HaloAir**
+*Mobile Application Developer — Project | Juni 2026 - Present*
 
-</p>
+Aplikasi mobile manajemen PDAM dengan arsitektur multi-role.
+- Dibangun dengan **Flutter**, arsitektur **Multi-Role (Admin & User)**
+- Integrasi **RESTful API** untuk sinkronisasi data operasional
+- Manajemen tagihan real-time via **Git & Postman**
 
----
+</td>
+<td width="50%" valign="top">
 
-# 📈 Contribution Graph
+**✈️ PortaTrip**
+*UI/UX Designer — Lomba | Mei 2025 - Present*
 
-<p align="center">
+Platform aplikasi wisata dan pemesanan porter guide.
+- User Flow & Wireframe menggunakan **Figma & Whimsical**
+- **Interactive Prototype** untuk validasi alur navigasi
+- Fokus pada pengalaman yang intuitif dan responsif
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ElZidane123&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ElZidane123&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 💼 Experience
-
-### 🚀 Full Stack Developer
-
-**EazyChise**
-
-Marketplace platform for franchise business built using Next.js, Tailwind CSS and Supabase.
-
----
-
-### 📱 Flutter Developer
-
-**Monsef**
-
-Financial management application featuring OCR Receipt Scanner, Speech-to-Text and Cloud Database.
+</td>
+</tr>
+</table>
 
 ---
 
-### 💧 Flutter Developer
+### 🏆 Sertifikasi & Prestasi
 
-**HaloAir**
-
-Multi-role PDAM management application integrated with RESTful API.
-
----
-
-### 🎨 UI/UX Designer
-
-**PortaTrip**
-
-Travel & Porter Booking Platform designed using Figma and Whimsical.
+- 🥈 Finalis **Business Plan Competition** 2025
+- 🌐 **Web Creation Competition** 2026
+- 🎨 **UI/UX ISINDO CHAMPIONS** 2024
+- 📜 Sertifikasi **Pengembangan Web Front-End & Membuat Website dengan React** — Dicoding
+- 🤖 Pelatihan **AI Engineer & Intermediate Assistant Web Developer** — Digital Talent Scholarship 2026
 
 ---
 
-# 🌱 Currently Learning
+### 📊 GitHub Stats
 
-- Clean Architecture
-- Riverpod
-- Docker
-- CI/CD
-- AI Integration
-- Microservices
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=ElZidane123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElZidane123&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-# 📫 Connect With Me
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElZidane123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
-<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ElZidane123&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
 
-<a href="mailto:elzidaneardyansyah265@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/elzidane">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/ElZidane123">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-## 💙 Building Digital Products That Make an Impact
+### 💬 "Turning ideas into scalable web and mobile experiences."
 
-*"Turning ideas into scalable web and mobile experiences."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=120&section=footer" width="100%"/>
 
 </div>
