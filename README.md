@@ -135,10 +135,10 @@ Platform aplikasi wisata dan pemesanan porter guide.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ElZidane123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=elzidanee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElZidane123&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=8B5CF6" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElZidane123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elzidanee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Top Languages" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=elzidanee&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=ffffff" alt="Contribution Graph" width="95%"/>
 
