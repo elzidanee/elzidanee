@@ -140,7 +140,7 @@ Platform aplikasi wisata dan pemesanan porter guide.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElZidane123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ElZidane123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=ffffff" alt="Contribution Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elzidanee&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=ffffff" alt="Contribution Graph" width="95%"/>
 
 </div>
 
