@@ -78,7 +78,7 @@ Saya siswa **Rekayasa Perangkat Lunak SMK Telkom Malang** yang membangun produk 
 <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elzidanee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6"/>
 <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elzidanee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
 
-<img width="95%" alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=elzidanee&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=ffffff"/>
+<img width="95%" alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=elzdne&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=ffffff"/>
 
 <img alt="Contribution Snake" src="https://raw.githubusercontent.com/elzidanee/elzidanee/output/github-contribution-grid-snake-dark.svg"/>
 
