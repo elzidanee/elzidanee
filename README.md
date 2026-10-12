@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-elzidaneardyansyah265-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:elzidaneardyansyah265@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-_elzdne-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_elzdne)
 [![Portfolio](https://img.shields.io/badge/Portfolio-elzidane.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://elzidane.vercel.app)
-![Profile Views](https://komarev.com/ghpvc/?username=elzidanee&color=8B5CF6&style=flat-square&label=Views)
+![Profile Views](https://komarev.com/ghpvc/?username=elzdne&color=8B5CF6&style=flat-square&label=Views)
 
 <img src="divider.svg" width="100%" alt=""/>
 
@@ -75,7 +75,7 @@ Saya siswa **Rekayasa Perangkat Lunak SMK Telkom Malang** yang membangun produk 
 
 <div align="center">
 
-<img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ElZidane123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6"/>
+<img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elzidanee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6"/>
 <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elzidanee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
 
 <img width="95%" alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=elzidanee&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=ffffff"/>
