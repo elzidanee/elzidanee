@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-elzidaneardyansyah265-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:elzidaneardyansyah265@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-_elzdne-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_elzdne)
 [![Portfolio](https://img.shields.io/badge/Portfolio-elzidane.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://elzidane.vercel.app)
-![Profile Views](https://komarev.com/ghpvc/?username=elzdne&color=8B5CF6&style=flat-square&label=Views)
+![Profile Views](https://komarev.com/ghpvc/?username=elzidanee&color=8B5CF6&style=flat-square&label=Views)
 
 <img src="divider.svg" width="100%" alt=""/>
 
