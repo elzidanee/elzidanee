@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-elzidane.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://elzidane.vercel.app)
 ![Profile Views](https://komarev.com/ghpvc/?username=ElZidane123&color=8B5CF6&style=flat-square&label=Views)
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -19,23 +19,23 @@
 Saya siswa **Rekayasa Perangkat Lunak SMK Telkom Malang** yang membangun produk digital di tiga bidang: **web, mobile, dan UI/UX**. Teknologi andalan saya **Next.js**, **Flutter**, dan **Supabase** untuk backend cloud. Saya terbiasa merancang sistem dengan autentikasi yang aman, manajemen data multi-role, dan integrasi API yang rapi sampai siap dipakai.
 
 <div align="center">
-<img src="assets/terminal.svg" width="780" alt="Terminal: whoami, fokus, proyek, status"/>
+<img src="terminal.svg" width="780" alt="Terminal: whoami, fokus, proyek, status"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 </div>
 
 ## Tech Stack
 
 <div align="center">
-<img src="assets/stack.svg" width="100%" alt="Flutter, Dart, Firebase, Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Supabase, Node.js, MySQL, REST API, Figma, Whimsical, Git, GitHub, Postman, Vercel, VS Code"/>
+<img src="stack.svg" width="100%" alt="Flutter, Dart, Firebase, Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Supabase, Node.js, MySQL, REST API, Figma, Whimsical, Git, GitHub, Postman, Vercel, VS Code"/>
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 </div>
 
 ## Proyek & Pengalaman
@@ -43,18 +43,18 @@ Saya siswa **Rekayasa Perangkat Lunak SMK Telkom Malang** yang membangun produk 
 <div align="center">
 <table>
 <tr>
-<td><img src="assets/card-eazychise.svg" width="480" alt="EazyChise — Full Stack Web Developer"/></td>
-<td><img src="assets/card-monsef.svg" width="480" alt="Monsef — Mobile Application Developer"/></td>
+<td><img src="card-eazychise.svg" width="480" alt="EazyChise — Full Stack Web Developer"/></td>
+<td><img src="card-monsef.svg" width="480" alt="Monsef — Mobile Application Developer"/></td>
 </tr>
 <tr>
-<td><img src="assets/card-haloair.svg" width="480" alt="HaloAir — Mobile Application Developer"/></td>
-<td><img src="assets/card-portatrip.svg" width="480" alt="PortaTrip — UI/UX Designer"/></td>
+<td><img src="card-haloair.svg" width="480" alt="HaloAir — Mobile Application Developer"/></td>
+<td><img src="card-portatrip.svg" width="480" alt="PortaTrip — UI/UX Designer"/></td>
 </tr>
 </table>
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 </div>
 
 ## Sertifikasi & Prestasi
@@ -68,7 +68,7 @@ Saya siswa **Rekayasa Perangkat Lunak SMK Telkom Malang** yang membangun produk 
 | — | Sertifikasi **Pengembangan Web Front-End** & **Membuat Website dengan React** — Dicoding |
 
 <div align="center">
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 </div>
 
 ## GitHub Activity
@@ -85,5 +85,5 @@ Saya siswa **Rekayasa Perangkat Lunak SMK Telkom Malang** yang membangun produk 
 </div>
 
 <div align="center">
-<img src="assets/footer.svg" width="100%" alt="Turning ideas into scalable web and mobile experiences."/>
+<img src="footer.svg" width="100%" alt="Turning ideas into scalable web and mobile experiences."/>
 </div>
