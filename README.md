@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="El Zidane Ardyansyah — Web Developer, Mobile Developer, UI/UX Designer" width="100%"/>
+<img src="header.svg" alt="El Zidane Ardyansyah — Web Developer, Mobile Developer, UI/UX Designer" width="100%"/>
 
 <br/>
 
